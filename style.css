@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Карьера Ламина Ямаля</title>
+    <meta name="description" content="Карьера Ламина Ямаля: клубы, дебюты, ключевые матчи и таблица выступлений за Барселону и сборную Испании.">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="main-nav">
+        <a href="index.html" class="nav-link">Главная</a>
+        <a href="bio.html" class="nav-link">Биография</a>
+        <a href="career.html" class="nav-link active">Карьера</a>
+        <a href="stats.html" class="nav-link">Достижения</a>
+    </nav>
+
+    <header class="page-header">
+        <h1>Карьера</h1>
+        <p>Клубы, дебюты и ключевые матчи</p>
+    </header>
+
+    <main class="page-main">
+        <article class="bio-card">
+            <h2>Таблица выступлений</h2>
+            <div class="table-wrap">
+                <table class="stats-table">
+                    <thead>
+                        <tr>
+                            <th>Клуб / Сборная</th>
+                            <th>Годы</th>
+                            <th>Матчи</th>
+                            <th>Голы</th>
+                            <th>Передачи</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Барселона B</td>
+                            <td>2022–2023</td>
+                            <td>—</td>
+                            <td>—</td>
+                            <td>—</td>
+                        </tr>
+                        <tr>
+                            <td>Барселона</td>
+                            <td>2023–н.в.</td>
+                            <td>110</td>
+                            <td>38</td>
+                            <td>35</td>
+                        </tr>
+                        <tr>
+                            <td>Сборная Испании</td>
+                            <td>2023–н.в.</td>
+                            <td>37</td>
+                            <td>11</td>
+                            <td>13</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </article>
+
+        <article class="bio-card">
+            <h2>Ключевые моменты</h2>
+            <ul class="timeline">
+                <li>
+                    <strong>2022–2023.</strong> Выступления за «Барселону B» и первые тренировки с основой.
+                </li>
+                <li>
+                    <strong>2023.</strong> Дебют в Ла Лиге в возрасте 15 лет — один из самых молодых игроков в истории клуба.
+                </li>
+                <li>
+                    <strong>2023.</strong> Первый гол за основу «Барселоны» — и статус самого молодого автора гола в истории Ла Лиги.
+                </li>
+                <li>
+                    <strong>2023.</strong> Дебют за сборную Испании — и сразу рекорд как самый молодой игрок и автор гола в её истории.
+                </li>
+                <li>
+                    <strong>2024.</strong> Победа на чемпионате Европы и звание лучшего молодого игрока турнира.
+                </li>
+                <li>
+                    <strong>2026.</strong> Чемпион мира в составе сборной Испании.
+                </li>
+            </ul>
+        </article>
+    </main>
+
+    <footer class="site-footer">
+        <p class="footer-credit">Сайт сделал <strong>Максим</strong> — создание сайтов и написание кода</p>
+        <div class="footer-contacts">
+            <a href="https://t.me/makk_sem" target="_blank">✈️ Telegram</a>
+            <a href="https://vk.ru/maksonchegg" target="_blank">💬 VK</a>
+            <a href="mailto:maxdmbort@gmail.com">✉️ maxdmbort@gmail.com</a>
+        </div>
+        <p class="footer-copy">© 2026 · Учебный проект · Архангельск</p>
+    </footer>
+
+</body>
+</html>
